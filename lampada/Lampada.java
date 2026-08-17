@@ -18,10 +18,10 @@ public class Lampada {
     // Apenas mostra informação, sem alterar o valor do atributo.
     public void atual(){
         if (estado){
-            System.out.println("A lâmpada está ligada!");
+            System.out.println("A lâmpada está ligada.");
         }
         else{
-            System.out.println("A lâmpada está desligada!");
+            System.out.println("A lâmpada está desligada.");
         }
     }
 
